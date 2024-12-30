@@ -22,4 +22,4 @@
 
 <h3> CONTACT</h3>
 
-<a href="https://t.me/tetra404"</a>
+<a href="https://t.me/tetra404"> Telegram </a>
